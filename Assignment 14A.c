@@ -1,3 +1,5 @@
+//Write a program to swap two numbers using pointers. (Call by reference)
+
 #include <stdio.h>
 
 void swap(int *a, int *b);
